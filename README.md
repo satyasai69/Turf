@@ -23,6 +23,28 @@ const poolId = await E(dex).addLiquidity(tokenA, tokenB);
 
 // Perform swap
 const { amountOut } = await E(dex).swap(tokenIn, tokenOutBrand);
+
+### Components
+
+1. **Timer Contract**
+   - Manages scheduled payments
+   - Triggers automated swaps
+   - Handles payment intervals
+
+2. **DEX Integration**
+   - Cross-chain asset swapping
+   - Liquidity pool interactions
+   - Price feed integration
+
+3. **ICS-027 Implementation**
+   - Interchain account management
+   - Cross-chain message passing
+   - State synchronization
+
+4. **Payment Handler**
+   - Payment execution logic
+   - Token balance management
+   - Transaction verification
 ```
 
 ## 🚀 Quick Start

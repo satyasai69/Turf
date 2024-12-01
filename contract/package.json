@@ -44,9 +44,13 @@
     "typescript-eslint": "^7.2.0"
   },
   "dependencies": {
+    "@agoric/deploy-script-support": "^0.10.4-upgrade-18-dev-ef001c0.0",
     "@agoric/ertp": "^0.16.3-u16.1",
-    "@agoric/vats": "dev",
-    "@agoric/zoe": "^0.26.3-u16.1",
+    "@agoric/governance": "^0.10.4-upgrade-18-dev-ef001c0.0",
+    "@agoric/notifier": "^0.6.3-upgrade-18-dev-ef001c0.0+ef001c0",
+    "@agoric/time": "^0.3.3-upgrade-18-dev-bf39b10.0",
+    "@agoric/vats": "^0.16.0-upgrade-18-dev-bf39b10.0",
+    "@agoric/zoe": "^0.26.3-upgrade-18-dev-ef001c0.0",
     "@endo/far": "^1.1.5",
     "@endo/marshal": "^1.5.3",
     "@endo/patterns": "^1.4.3"

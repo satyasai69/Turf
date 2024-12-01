@@ -1,4 +1,4 @@
-# Shopify-style DEX Creator Platform
+# TURF DEX Creator Platform
 
 A decentralized platform built on Agoric that enables anyone to create their own DEX (Decentralized Exchange) with a single click, featuring automatic fee sharing and customizable trading pairs.
 

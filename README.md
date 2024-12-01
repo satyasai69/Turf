@@ -104,13 +104,13 @@ MIT License
 
 ## 🆘 Support
 
-- Discord: [Join Agoric Discord]
-- Twitter: [@DEXCreator]
-- Email: support@dexcreator.com
+- Discord: N/A
+- Twitter: N/A
+- Email: N/A
 
 ## 🔗 Links
 
-- [Documentation](https://docs.dexcreator.com)
+- [Documentation]() soon
 - [Agoric Docs](https://docs.agoric.com)
-- [Whitepaper](https://whitepaper.dexcreator.com)
-- [Audit Report](https://audit.dexcreator.com)
+- [Whitepaper]() soon
+- [Audit Report]() soon
